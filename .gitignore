@@ -6,7 +6,7 @@ table.insert(tab,v)
 end
 end
 for i,v in pairs(tab) do
-local dd = 138221067--7321631498--138221067--
+local dd = 7321631498--138221067--
 local args = {
     [1] = "newSound",
     [2] = "Rev",
